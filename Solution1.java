@@ -1,5 +1,5 @@
 
-public class Question1 {
+public class Solution1 {
     /**
      * Prints three different shapes to the console using nested loops.
      * Shape 1: A right triangle with numbers on the left and asterisks on the right.
