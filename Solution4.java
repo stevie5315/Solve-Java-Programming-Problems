@@ -37,13 +37,14 @@ public class Solution4 {
        
 
         System.out.println("Enter 10 different integers:");
-        int i = 0;
-        while (i < 10) {
+        int i = 1;
+        while (i <= 10) {
+            System.out.print("Number " + i + ": ");
             int num = scanner.nextInt();
             if (contains(numbers, num)) {
                 System.out.println("Number already exists. Please enter a different number.");
             } else {
-                numbers[i] = num;
+                numbers[i-1] = num;
                 if (num > largest) {
                     largest = num;
                 }
