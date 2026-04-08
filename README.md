@@ -6,20 +6,23 @@
 
 This repository is designed to help you improve your Java programming skills by providing practical examples and solutions to common programming problems. You'll learn how to solve around 20 Java programming questions related to:
 
+### Who This Is For
+- Beginner to intermediate developers learning Java
+- Developers preparing for coding interviews
+- Anyone looking to strengthen problem-solving skills
+
+### What You'll Learn
+- Core Java concepts
+- Algorithmic thinking
+- Clean coding practices
+- Problem decomposition techniques
+
 ### Topics Covered
 
 * Nested if conditions
 * Nested loops
 * String manipulations
 * Arrays
-
-### What you'll learn
---------------------
-
-* How to write efficient and readable Java code
-* How to solve common programming problems using Java
-* How to use nested if conditions, nested loops, and array operations
-* How to manipulate strings in Java
 
 ### Getting started
 ------------------
